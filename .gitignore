@@ -200,13 +200,6 @@ root/ui/***/***
 root/ui/***/***/***
 root/ui/***/***/***/***
 
-data/list.json
-
-git_add_commit_push.bat
-git_pull.bat
-git_push.bat
-git_status.bat
-
 index.debug/***
 index.premium.debug/***
 
